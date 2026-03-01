@@ -26,7 +26,7 @@ export default function Page() {
                     Here you will see Siddhant's About
                 </p>
                 <Link href="https://docs.netlify.com/frameworks/next-js/overview/" className="btn btn-lg sm:min-w-64">
-                    Read the Docs
+                    Read Siddhant's About
                 </Link>
             </section>
             {!!ctx && (
